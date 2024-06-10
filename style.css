@@ -1,0 +1,12 @@
+fieldset{
+   
+    background-color: wheat;
+    color:black;   
+    padding: 20px;
+    border:1px solid black;
+    margin: 50px;
+    }
+    legend{
+        font-size: 30px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
